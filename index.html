@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COFFEE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">
+     
+      <div class="title">
+        <h2>COFFEE</h2>
+        <p>Interactive Coffee Shop Website</p>
+      </div>
+    </div>
+    <nav>
+      <a href="#menu">Menu</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#feedback">Feedback</a>
+    </nav>
+    
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Welcome to Sunrise Coffee</h2>
+      <p>Enjoy an interactive digital coffee experience — browse our menu, order your favorite coffee, and share your feedback.</p>
+      <a href="#menu" class="ordr-btn">Order Now</a>
+      
+    </div>
+    <div class="hero-img">
+      <img src="images/shop.jpeg" alt="Coffee Shop">
+    </div>
+  </section>
+
+  <section id="menu" class="menu">
+    <h2>Our Menu</h2>
+    <div id="menuGrid" class="menu-grid"></div>
+  </section>
+
+
+
+  <section id="gallery" class="gallery-section">
+    <h2>Gallery</h2>
+    <div class="gallery">
+      <img src="images/espresso.jpg" alt="Coffee 1">
+      <img src="images/cappuccino.jpg" alt="Coffee 2">
+      <img src="images/latte.jpg" alt="Coffee 3">
+      <img src="images/mocha.jpg" alt="Coffee 4">
+      <img src="images/cold_brew_coffee.jpg" alt="Coffee 5">
+      <img src="images/foamy_cold_coffee.jpg" alt="Coffee 6">
+      <img src="images/spanish_latte.jpg" alt="">
+      <img src="images/caramel_latte.jpg" alt="">
+      <img src="images/banana_latte.jpg" alt="">
+      <img src="images/pinkcappuccino.jpg" alt="">
+    </div>
+  </section>
+
+  <section id="cart" class="cart">
+  <h2>Your Cart</h2>
+  <ul id="cartItems"></ul>
+  <p id="cartTotal">Total:0Tk</p>
+  <button id="placeOrderBtn" onclick="placeOrder()">Place Order</button>
+</section>
+  <section id="feedback" class="feedback">
+    <h2>Share Your Feedback</h2>
+    <form id="feedbackForm">
+      <input type="text" id="fbName" placeholder="Your Name">
+      <input type="email" id="fbEmail" placeholder="Your Email (optional)">
+      <textarea id="fbText" rows="4" placeholder="Write your feedback here..."></textarea>
+      <button type="button" onclick="submitFeedback()">Submit</button>
+    </form>
+  </section>
+
+
+  <footer>
+    <p></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

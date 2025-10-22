@@ -1,0 +1,208 @@
+[
+  {
+    "items": [
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      },
+      {
+        "name": "Cold Brew",
+        "image": "images/cold_brew_coffee.jpg",
+        "price": 170
+      }
+    ],
+    "total": 520,
+    "date": "10/14/2025, 7:45:10 AM"
+  },
+  {
+    "items": [
+      {
+        "name": "Caramel Latte",
+        "image": "images/caramel_latte.jpg",
+        "price": 190
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      }
+    ],
+    "total": 340,
+    "date": "10/14/2025, 7:49:51 AM"
+  },
+  {
+    "items": [
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Mocha",
+        "image": "images/mocha.jpg",
+        "price": 180
+      }
+    ],
+    "total": 450,
+    "date": "10/19/2025, 11:30:56 AM"
+  },
+  {
+    "items": [
+      {
+        "name": "Caramel Latte",
+        "image": "images/caramel_latte.jpg",
+        "price": 190
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      }
+    ],
+    "total": 390,
+    "date": "10/19/2025, 12:23:48 PM"
+  },
+  {
+    "items": [
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Caramel Latte",
+        "image": "images/caramel_latte.jpg",
+        "price": 190
+      },
+      {
+        "name": "Caramel Latte",
+        "image": "images/caramel_latte.jpg",
+        "price": 190
+      },
+      {
+        "name": "Caramel Latte",
+        "image": "images/caramel_latte.jpg",
+        "price": 190
+      },
+      {
+        "name": "Caramel Latte",
+        "image": "images/caramel_latte.jpg",
+        "price": 190
+      }
+    ],
+    "total": 3300,
+    "date": "10/22/2025, 10:50:48 AM"
+  },
+  {
+    "items": [
+      {
+        "name": "Espresso",
+        "image": "images/espresso.jpg",
+        "price": 120
+      },
+      {
+        "name": "Cappuccino",
+        "image": "images/cappuccino.jpg",
+        "price": 150
+      },
+      {
+        "name": "Latte",
+        "image": "images/latte.jpg",
+        "price": 200
+      }
+    ],
+    "total": 470,
+    "date": "10/22/2025, 10:57:03 AM"
+  }
+]
